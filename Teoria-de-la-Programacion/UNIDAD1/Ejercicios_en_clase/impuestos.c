@@ -17,7 +17,7 @@ void main() {
     total = subtotal + (subtotal * IVA);
 
     printf("El valor es %f \n", total);
-    printf ("perro ");
+    printf ("El subtotal es: %f \n", subtotal);
    
 
 }
