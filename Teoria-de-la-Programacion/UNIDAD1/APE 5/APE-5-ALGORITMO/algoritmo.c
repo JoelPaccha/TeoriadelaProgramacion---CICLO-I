@@ -30,5 +30,7 @@ int main () {
     printf("La nota mínima que usted debe obtener en su certamen para abrobar es: %.2f \n", C3F) ;
     printf("Si el resultado es negativo, sinifica que ya apruebas con las notas actuales sin sumar el certamen 3 \n") ;
 
+    return 0 ;
+
 
 }
