@@ -1,4 +1,4 @@
-/*305. Construya un algoritmo que lea tres números enteros val1, num1 y m por teclado. Use una constante literal 3 para calcular el promedio. Asigne el resultado 
+/*304. Construya un algoritmo que lea tres números enteros val1, num1 y m por teclado. Use una constante literal 3 para calcular el promedio. Asigne el resultado 
 de la expresión aritmética ((val1 + num1 + m) / 3) a la variable promedio. Evalúe las expresiones relacionales (val1 > promedio), (num1 > promedio) y (m > promedio). 
 Muestre por pantalla cuáles de los tres valores están por encima del promedio.*/
 
@@ -35,5 +35,7 @@ int main () {
     {
         printf("El valor: %d, esta por encima del promedio \n", num1) ;
     }
+
+    return 0 ;
     
 }
