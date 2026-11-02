@@ -34,5 +34,6 @@ int main () {
         printf("El número ingresado no es igual a la mitad del límite \n") ;
     }
     
+    return 0 ;
 
 }
