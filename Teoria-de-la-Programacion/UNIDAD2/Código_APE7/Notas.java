@@ -52,6 +52,5 @@ public class Notas {
             }    
             
             scanner.close();
-
     }
 }
